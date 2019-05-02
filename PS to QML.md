@@ -6,7 +6,7 @@
 <ul>
 <li></li>
 </ul>
-<h2 id="создание-ui-в-photoshop-и-перевод-в-qml-для-qt-creator">Создание Ui в Photoshop и перевод в QML (для Qt Creator)</h2>
+<h2 id="Перевод-psd-в-qml-для-qt-creator">Перевод PSD файл (Photoshop) в QML (для Qt Creator)</h2>
 <ul>
 <li></li>
 </ul>
